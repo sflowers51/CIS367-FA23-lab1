@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');
+=======
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+>>>>>>> Stashed changes
 
 @tailwind base;
 @tailwind components;

@@ -37,6 +37,8 @@ The designs were created to the following widths:
 - Weights: 600
 - Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
 - Weights: 700, 900
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 700, 900
 
 ## Icons
 
