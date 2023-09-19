@@ -10,16 +10,18 @@ module.exports = {
         'dark-desaturated-cyan': 'hsl(167, 40%, 24%)',
         'dark-blue': 'hsl(198, 62%, 26%)',
         'dark-moderate-cyan': 'hsl(168, 34%, 41%)',
-        
+        'light-blue': 'hsl(176, 68%, 64%)',
         'very-dark-desatured-blue': 'hsl(212, 27%, 19%)',
         'very-dark-grayish-blue': 'hsl(213, 9%, 39%)',
         'dark-grayish-blue': 'hsl(232, 10%, 55%)',
         'grayish-blue': 'hsl(210, 4%, 67%)',
-        'white': 'hsl(0, 0%, 100%)' 
+        'white': 'hsl(0, 0%, 100%)',
+        'footer': '#90D4C6', 
       },
       fontFamily: {
         sans: ['Barlow', 'sans-serif'],
         serif: ['Fraunces', 'serif'],
+        poppins: ['Poppins', 'sans-serif'],
       },
     },
   },
