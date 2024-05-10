@@ -7,7 +7,7 @@
     "build": "npx tailwindcss -i input.css -o output.css",
     "watch": "npx tailwindcss -i input.css -o output.css --watch"
   },
-  "author": "Kenan Casey",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.3"
